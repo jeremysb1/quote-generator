@@ -1,6 +1,6 @@
 # Quote Generator
 
-This is a vanilla JavaScript project designed to help me polish up my HTML, CSS, and JS skills. 
+This is a vanilla JavaScript project helping me polish up my HTML, CSS, and JS skills. 
 
 The app, as the name suggest, allows the user to click a button and receive a new quote.
 
